@@ -1,0 +1,7 @@
+-cp lib
+-cp test
+-main Main
+-hl bin/test.hl
+-D hl-ver=1.11.0
+-debug
+-cmd cd bin; hl test.hl

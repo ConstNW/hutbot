@@ -1,0 +1,5 @@
+-cp lib
+-cp src
+-main Main
+-hl bin/bot.hl
+-D hl-ver=1.11.0
